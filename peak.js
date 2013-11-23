@@ -1,5 +1,5 @@
 /*
-Copyleft (כ) 2013 Matt McWilliams
+Copyleft (כ) 2013 M McWilliams
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
